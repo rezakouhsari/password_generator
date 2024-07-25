@@ -1,7 +1,7 @@
 # پروژه password generator یکی از پروژه های پیاده سازی شده در دوره پیشرفته جاوا اسکریپت
 
 
-![This is an alt text.]([https://github.com/rezakouhsari/password_generator/blob/master/Screenshot.png)
+![This is an alt text.]([https://github.com/rezakouhsari/password_generator/Screenshot.png)
 
 **این پروژه مربوط به دوره جامع تیلویند میباشد که در وب سایت آرتور برگزار گردید که از طریق لینک زیر میتونید در این دوره جامع و رایگان شرکت کنید.**  
 
